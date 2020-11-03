@@ -5,6 +5,6 @@ Problem-set3 for Sta304 group182
 
 Zuoyu Wang, 1004789259
 
-Zijuun Ye, 1005414507
+Zijun Ye, 1005414507
 
 Yuhan Zhao, 1003986840
